@@ -1,0 +1,7 @@
+.task-item {
+    width: 100% !important;
+    align-items: center;
+}
+.task-item button {
+    margin-left: 20px;
+}
